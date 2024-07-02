@@ -37,10 +37,7 @@ function playRound(humanchoice,computerchoice){
         return console.log("Draw")
     }
 }
-
-function checkInput(choice) {
-    
-}       
+     
 
 function playGame(){
     
